@@ -1,0 +1,54 @@
+.box{
+    height: 200px;
+    width: 300px;
+    opacity: 70%;
+    border: none;
+    border-radius: 10px;
+    margin: 14px 10px 12px 10px;
+}
+.box1 {background-image: url("https://source.unsplash.com/300x200/?school");}
+.box2 {background-image: url("https://source.unsplash.com/300x200/?classroom");}
+.box3 {background-image: url("https://source.unsplash.com/300x200/?playground");}
+.box4 {background-image: url("https://source.unsplash.com/300x200/?kids");}
+h5{
+    text-align: left;
+    padding: 20% 0% 0% 0%;
+    color:aliceblue;
+    border-bottom: 10px white;
+}
+.grid{
+    text-align:left;
+    color: whitesmoke;
+    padding: 0% 0% 0% 0%;
+}
+.featurette-heading{
+    padding:10% 0% 0% 0%;
+
+}
+h5{
+    color: black;
+    padding:0% 0% 9% 0%;
+}
+.card{ 
+    width: 300px;
+    height: 400px;
+    margin: 1% 2% 0% 0%;
+    border: none;
+    border-radius: 12px;
+}
+.team{
+    color:blueviolet;
+    font-style: bold;
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding-bottom: 10%;
+}
+.footer-content-box{
+    background-color: rgb(63, 51, 51);
+}
+.fa.fa-angle-right.footer-icon{
+    text-decoration: white;
+    font-style:bold;
+}
